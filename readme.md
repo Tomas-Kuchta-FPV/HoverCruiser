@@ -34,6 +34,22 @@ I've been obsesed with electric vehycles for a long like. I've got an electric s
 So I've began making my own onewheel out off hoverboard motors (For this purpuse this repo was supposed to be) but after watching a few reviews of onewheels I've found out that there are so many flaws and that's why I have opted to making an electric skateboard!  
 Also this is my last hackclub program I can take part in, so I've opted for a super challanging and long term project to test my skils!  
 
+## ESCs
+### Option 1
+Hoverboard ESCs with EEferus Firmware.  
+https://github.com/EFeru/hoverboard-firmware-hack-FOC  
+### Option 2
+Custom made DIY VESC. Curently untested.  
+https://github.com/Tomas-Kuchta-FPV/VESC6_OPEN_HARDWARE  
+#### Desing consideration
+- High voltage ~55V
+- Medium current ~20A
+- Powered by VESC
+- 2 channel
+- CAN
+- IMU
+- Current measurement
+
 ## Inspiration
 FOSSwheell  
 https://www.kocian.info/blog_RKMBe.html  
@@ -54,9 +70,4 @@ https://www.thingiverse.com/thing:4819536
 | Cables, Connectors       |
 | BMS, LiFePo4 Batteries   |
 
-## cloning the repo
-This repo contains submodules.  
-`git clone https://github.com/Tomas-Kuchta-FPV/FOSSwheel.git`  
-`git submodule init`  
-`git submodule update`  
 
