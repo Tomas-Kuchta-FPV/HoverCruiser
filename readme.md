@@ -14,6 +14,7 @@ While dissasembling a few hoverboards and flashing them I've thought of ways on 
 Technical plans are here! [Production/Drawings.pdf](/Production/Drawings.pdf)  
 I've actually started the build. :D
 
+<img width="3640" height="1633" alt="PXL_20261107_185652074" src="https://github.com/user-attachments/assets/ea59074a-ed81-46ae-9108-72cf2b6f10b5" />
 
 ## Design consideration
 - ~~Custom designed powerfull VESC~~
