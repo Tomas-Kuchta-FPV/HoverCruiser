@@ -1,7 +1,7 @@
 # ~~FOSSboard~~ ~~QuadCore~~? Hover Cruiser!
 An open source off-road electric longboard/mountainboard/crosscountry hybrid thingimabop made out of upcycled parts from old unused hoverboards!  
 Designed to be repairable, Open Source, easy to build and modifiable to your liking.  
-NGL I'm maybe overhyping it, feel free to make this project better by raising issues ans making PRs.  
+NGL I'm maybe overhyping it, feel free to make this project better by raising issues ans making PRs. I like the unique looks of it.  
 
 While dissasembling a few hoverboards and flashing them I've thought of ways on how to recycle old hoverboars and the thought oh making some kind of PEV came into my mind. And yeah a stable and powerfull one. Atleast after trying to make a OneWheel clone.  
 
@@ -12,6 +12,8 @@ While dissasembling a few hoverboards and flashing them I've thought of ways on 
 
 ## Building
 Technical plans are here! [Production/Drawings.pdf](/Production/Drawings.pdf)  
+I've actually started the build. :D
+
 
 ## Design consideration
 - ~~Custom designed powerfull VESC~~
@@ -36,7 +38,7 @@ Also this is my last hackclub program I can take part in, so I've opted for a su
 
 ## ESCs
 ### Option 1
-Hoverboard ESCs with EEferus Firmware.  
+Hoverboard ESCs with EEferus Firmware. The current CAD model is based on this.  
 https://github.com/EFeru/hoverboard-firmware-hack-FOC  
 ### Option 2
 Custom made DIY VESC. Curently untested.  
@@ -59,6 +61,7 @@ https://www.wildcircuits.com/2016/10/electric-mountain-board.html
 https://www.thingiverse.com/thing:4819536  
 
 ## BOM - overview
+To make your own Hover Cruiser, use the BOM under /main BOM.ods! ;)
 | Item                     | QTY | Price | Link |
 | ------------------------ | --- | ----- | ---- |
 | Frame, Deck              | -   |
@@ -66,7 +69,7 @@ https://www.thingiverse.com/thing:4819536
 | CNCed / 3D printed parts |
 | HW & bits and bops       |
 | Hoverboard wheels        | 4   |
-| ESC      | 2   |
+| ESC                      | 2   |
 | Cables, Connectors       |
 | BMS, LiFePo4 Batteries   |
 
